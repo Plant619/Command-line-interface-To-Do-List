@@ -31,4 +31,4 @@ Mark Task as Incomplete
 # Setup 
 1. Clone repository
 2. npm install
-3. Run program (Type node filename.js)
+3. Run program (Type node list.js)
